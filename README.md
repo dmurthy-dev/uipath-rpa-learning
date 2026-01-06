@@ -1,4 +1,5 @@
 > Notes are written **after completing each module**, focusing on concepts, examples, and documentation gaps(if present).
+
 Each module note includes:
 - Core concepts
 - One practical example
