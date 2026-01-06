@@ -1,3 +1,5 @@
+> Notes are written **after completing each module**, focusing on concepts, examples, and documentation gaps(if present).
+
 # UiPath RPA Learning Journey
 
 Detailed notes, examples, and practice projects from UiPath Academy courses.
