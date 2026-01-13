@@ -15,9 +15,10 @@ Detailed notes, examples, and practice projects from UiPath Academy courses.
 ## 📚 Courses
 
 ### 1. Automation Starter (5.5 hours)
-**Status:** Not started  
+Status: In progress  
+Notes: Introductory modules and labs partially completed. Environment constraints and documentation gaps are documented separately.
 **Modules:**
-- [ ] Introduction to Automation (1h)
+- ✅ Introduction to Automation (1h)
 - [ ] UiPath Studio Web (2h 15m)
 - [ ] Agentic Automation (1h)
 - [ ] Prompt Engineering (1h 20m)
@@ -46,5 +47,10 @@ Detailed notes, examples, and practice projects from UiPath Academy courses.
 - [ ] AI Center Overview (50m)
 - [ ] Document Understanding (4h 15m)
 - [ ] Communications Mining (1h 50m)
+
+---
+
+For detailed execution logs and error analysis, see:
+https://github.com/dmurthy-dev/learning-in-public
 
 ---
